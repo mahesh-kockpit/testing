@@ -11,4 +11,3 @@ with open('C:\KockpitStudio\ETLJobs\Myjson.json') as f:
 print(data)
 print('testing python')
 print('gg')
-bb
